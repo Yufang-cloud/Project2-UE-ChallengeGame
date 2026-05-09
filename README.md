@@ -11,7 +11,7 @@ Unreal Engine 5.7 挑战闯关游戏项目。
 ## 克隆
 
 ```bash
-git lfs clone https://github.com/Yufang-cloud/UE-ChallengeGame.git
+git lfs clone https://github.com/Yufang-cloud/Project2-UE-ChallengeGame.git
 ```
 
 ## 项目内容
