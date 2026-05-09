@@ -1,0 +1,45 @@
+# Unreal Engine
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+Uproject.saved
+*.xcodeproj
+.vscode/
+.vs/
+
+# Compiled binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.pdb
+*.ilk
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+**/Logs/
+
+# Config local
+Config/LocalUserSettings/
